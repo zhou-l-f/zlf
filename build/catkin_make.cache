@@ -1,0 +1,2 @@
+learning_communication:ros_arduino_bridge/ros_arduino_bridge:ros_arduino_bridge/ros_arduino_firmware:ros_arduino_bridge/ros_arduino_msgs:ros_arduino_bridge/ros_arduino_python
+-DCATKIN_DEVEL_PREFIX=/home/ros/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ros/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="learning_communication" type="Talker" name="talker_p"/>
+    <node pkg="learning_communication" type="Listener" name="listener_p" />
+</launch>
